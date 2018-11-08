@@ -28,4 +28,3 @@ fars_summary
 ## ----mapping_crashes-----------------------------------------------------
 fars_map_state(53, 2014)
 fars_map_state(36, 2014)
-
