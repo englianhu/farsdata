@@ -68,9 +68,9 @@ fars_read <- function(filename) {
 #' @export
 make_filename <- function(year) {
   year <- as.integer(year)
-  system.file("extdata",
-              sprintf("accident_%d.csv.bz2", year),
-              package = "fars",
+  system.file('extdata',
+              sprintf('accident_%d.csv.bz2', year),
+              package = 'farsdata',
               mustWork = TRUE)
 }
 
