@@ -1,6 +1,6 @@
 ---
 title: "Introduction to `farsdata` Package"
-author: "[®γσ, Lian Hu](https://englianhu.github.io/) <img src='figure/RYO.jpg' width='24'> <img src='figure/RYU.jpg' width='24'> <img src='figure/ENG.jpg' width='24'>®"
+author: "[®γσ, Lian Hu](https://englianhu.github.io/)"
 date: "`r lubridate::today('Asia/Tokyo')`"
 output: rmarkdown::html_vignette
 vignette: >
@@ -71,7 +71,6 @@ The `fars_summarize_years()` function take the same argument as the `fars_read_y
 fars_summary <- fars_summarize_years(2013:2015)
 fars_summary
 ```
-
 
 ## Mapping Fatal Crashes
 

@@ -1,6 +1,6 @@
 ---
 title: "Fatality Analysis Reporting System (FARS)"
-author: "[®γσ, Lian Hu](https://englianhu.github.io/) <img src='figure/RYO.jpg' width='24'> <img src='figure/RYU.jpg' width='24'> <img src='figure/ENG.jpg' width='24'>®"
+author: "[®γσ, Lian Hu](https://englianhu.github.io/)"
 date: "`r lubridate::today('Asia/Tokyo')`"
 output: rmarkdown::html_vignette
 vignette: >

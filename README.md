@@ -1,6 +1,6 @@
 The `farsdata` R Package
 ========
-[![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
+Current status of build:[![Build Status](https://travis-ci.org/englianhu/farsdata.svg?branch=master)](https://travis-ci.org/englianhu/farsdata)
 
 <img src="vignettes/figure/coursera.jpg" width="120" />
 
@@ -9,7 +9,7 @@ This is an assignment for the **Course 3 : Building R Packages**. Kindly refer t
 Installation
 ------------
 
-You can install the released version of farsdata from [CRAN](https://CRAN.R-project.org) with:
+You can install the released version of `farsdata` from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
 install.packages('farsdata')
