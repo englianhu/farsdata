@@ -2,7 +2,7 @@ The `farsdata` R Package
 ========
 Current status of build : [![Build Status](https://travis-ci.org/englianhu/farsdata.svg?branch=master)](https://travis-ci.org/englianhu/farsdata)
 
-<img src="inst/doc/coursera.jpg" width="120"/>
+<img src="inst/figure/coursera.jpg" width="120"/>
 
 This is an assignment for the **Course 3 : Building R Packages**. Kindly refer to my GitHub repo for the courses [Coursera Mastering Software Development in R](https://github.com/englianhu/Coursera-Mastering-Software-Development-in-R) to know the course detail or [Building R Packages](https://www.coursera.org/learn/r-packages) to register for study.
 

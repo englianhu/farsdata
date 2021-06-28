@@ -48,7 +48,7 @@ fars_read <- function(filename) {
   data <- suppressMessages({
     readr::read_csv(filename, progress = FALSE)
   })
-  dplyr::tbl_df(data)
+  tibble::as_tibble(data)
 }
 
 
@@ -97,8 +97,8 @@ fars_read_years <- function(years) {
     file <- make_filename(year)
     tryCatch({
       dat <- fars_read(file)
-      dplyr::mutate_(dat,  year = "YEAR") %>%
-        dplyr::select_("MONTH", "year")
+      dplyr::mutate(dat,  year = "YEAR") %>%
+        dplyr::select("MONTH", "year")
     }, error = function(e) {
       warning("invalid year: ", year)
       return(NULL)
@@ -126,9 +126,9 @@ fars_read_years <- function(years) {
 fars_summarize_years <- function(years) {
   dat_list <- fars_read_years(years)
   dplyr::bind_rows(dat_list) %>%
-    dplyr::group_by_("year", "MONTH") %>%
-    dplyr::summarize_(n = "n()") %>%
-    tidyr::spread_("year", "n")
+    dplyr::group_by("year", "MONTH") %>%
+    dplyr::summarize(n = "n()") %>%
+    tidyr::spread("year", "n")
 }
 
 #' Display accidents map by state and year
