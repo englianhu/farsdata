@@ -47,7 +47,7 @@ fars_2013_fn
 
 ### Single Year
 
-If you wish to just look at fatality data for a a single year, use the `fars_read_years()` function with a single year as input. The only data columns selected are `MONTH` and `year`.  This returns a list of length one, and the first element in the list is the `tbl_df` (the `tidyverse` data frame) listing the month and year for each fatal accident.
+If you wish to just look at fatality data for a a single year, use the `fars_read_years()` function with a single year as input. The only data columns selected are `MONTH` and `year`.  This returns a list of length one, and the first element in the list is the `as_tibble` (the `tidyverse` data frame) listing the month and year for each fatal accident.
 
 ```{r single_year}
 fars_2014 <- fars_read_years(years = 2014)
