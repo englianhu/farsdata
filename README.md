@@ -1,6 +1,9 @@
 The `farsdata` R Package
 ========
-Current status of build : [![Build Status](https://travis-ci.org/englianhu/farsdata.svg?branch=master)](https://travis-ci.org/englianhu/farsdata)
+
+<!-- badges: start -->
+[![Travis build status](https://travis-ci.com/englianhu/farsdata.svg?branch=master)](https://travis-ci.com/englianhu/farsdata)
+<!-- badges: end -->
 
 <img src="inst/figure/coursera.jpg" width="120"/>
 
