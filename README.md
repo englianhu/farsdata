@@ -7,7 +7,7 @@ The `farsdata` R Package
 macOS: [![R](https://github.com/englianhu/farsdata/actions/workflows/R-macos.yml/badge.svg)](https://github.com/englianhu/farsdata/actions/workflows/R-macos.yml)
 Ubuntu: [![R](https://github.com/englianhu/farsdata/actions/workflows/R-ubuntu.yml/badge.svg)](https://github.com/englianhu/farsdata/actions/workflows/R-ubuntu.yml)
 
-[![Travis build status](https://travis-ci.com/englianhu/farsdata.svg?branch=master)](https://travis-ci.com/englianhu/farsdata) [![R](https://github.com/englianhu/farsdata/actions/workflows/r.yml/badge.svg)](https://github.com/englianhu/farsdata/actions/workflows/r.yml)
+[![Travis build status](https://travis-ci.com/englianhu/farsdata.svg?branch=master)](https://travis-ci.com/englianhu/farsdata)
 <!-- badges: end -->
 
 <img src="inst/figure/coursera.jpg" width="120"/>
