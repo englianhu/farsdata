@@ -4,7 +4,7 @@ The `farsdata` R Package
 <!-- badges: start -->
 [![Jekyll site CI](https://github.com/englianhu/farsdata/actions/workflows/jekyll.yml/badge.svg)](https://github.com/englianhu/farsdata/actions/workflows/jekyll.yml) 
 
-[macOS: ![R](https://github.com/englianhu/farsdata/actions/workflows/R-macos.yaml/badge.svg)](https://github.com/englianhu/farsdata/actions/workflows/R-macos.yaml) [Ubuntu: ![R](https://github.com/englianhu/farsdata/actions/workflows/R-ubuntu.yaml/badge.svg)](https://github.com/englianhu/farsdata/actions/workflows/R-ubuntu.yaml)
+macOS: [![R](https://github.com/englianhu/farsdata/actions/workflows/R-macos.yaml/badge.svg)](https://github.com/englianhu/farsdata/actions/workflows/R-macos.yaml) Ubuntu: [![R](https://github.com/englianhu/farsdata/actions/workflows/R-ubuntu.yaml/badge.svg)](https://github.com/englianhu/farsdata/actions/workflows/R-ubuntu.yaml)
 
 [![Travis build status](https://travis-ci.com/englianhu/farsdata.svg?branch=master)](https://travis-ci.com/englianhu/farsdata) [![R](https://github.com/englianhu/farsdata/actions/workflows/r.yml/badge.svg)](https://github.com/englianhu/farsdata/actions/workflows/r.yml)
 <!-- badges: end -->
