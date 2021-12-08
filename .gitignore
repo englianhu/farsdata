@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+farsdata.Rcheck/
+farsdata*.tar.gz
+farsdata*.tgz

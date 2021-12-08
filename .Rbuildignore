@@ -3,3 +3,6 @@
 figure$
 cache$
 
+^farsdata\.Rcheck$
+^farsdata.*\.tar\.gz$
+^farsdata.*\.tgz$
