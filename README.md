@@ -2,7 +2,7 @@ The `farsdata` R Package
 ========
 
 <!-- badges: start -->
-[![Travis build status](https://travis-ci.com/englianhu/farsdata.svg?branch=master)](https://travis-ci.com/englianhu/farsdata) [![R](https://github.com/englianhu/farsdata/actions/workflows/r.yml/badge.svg)](https://github.com/englianhu/farsdata/actions/workflows/r.yml)
+[![Jekyll site CI](https://github.com/englianhu/farsdata/actions/workflows/jekyll.yml/badge.svg)](https://github.com/englianhu/farsdata/actions/workflows/jekyll.yml) [![Travis build status](https://travis-ci.com/englianhu/farsdata.svg?branch=master)](https://travis-ci.com/englianhu/farsdata) [![R](https://github.com/englianhu/farsdata/actions/workflows/r.yml/badge.svg)](https://github.com/englianhu/farsdata/actions/workflows/r.yml)
 <!-- badges: end -->
 
 <img src="inst/figure/coursera.jpg" width="120"/>
